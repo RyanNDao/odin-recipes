@@ -1,9 +1,9 @@
 # Recipes List
 
 ## Links
-- [Website](https://ryanndao.github.io/odin-recipes/)
+- [Link to the application](https://ryanndao.github.io/odin-recipes/)
 
-- [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
+- [Link to the assignment page](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
 
 ## About
 This is a repo for the first project of the Odin Project assignments.
